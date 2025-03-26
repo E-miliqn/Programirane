@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad 3", "zad 3\zad 3.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove", "Remove\Remove.csproj", "{B4B08AC6-D0D8-4675-B370-6CA3C4AB29A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listexercise", "Listexercise\Listexercise.csproj", "{13EC53F3-A0F4-4DA6-A9C8-04F949D51D7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{B4B08AC6-D0D8-4675-B370-6CA3C4AB29A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4B08AC6-D0D8-4675-B370-6CA3C4AB29A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4B08AC6-D0D8-4675-B370-6CA3C4AB29A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EC53F3-A0F4-4DA6-A9C8-04F949D51D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EC53F3-A0F4-4DA6-A9C8-04F949D51D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EC53F3-A0F4-4DA6-A9C8-04F949D51D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EC53F3-A0F4-4DA6-A9C8-04F949D51D7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{FC46550C-349E-4663-B988-F641473E8ECE} = {E01C9C6F-B685-4333-B07D-563479E8B70D}
 		{446A6D2D-8A2D-4A5C-BF08-2B3C5A5A9477} = {E01C9C6F-B685-4333-B07D-563479E8B70D}
 		{B4B08AC6-D0D8-4675-B370-6CA3C4AB29A9} = {E01C9C6F-B685-4333-B07D-563479E8B70D}
+		{13EC53F3-A0F4-4DA6-A9C8-04F949D51D7E} = {E01C9C6F-B685-4333-B07D-563479E8B70D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DAD5047B-7D17-4533-8CF4-BB46ECF19B41}
