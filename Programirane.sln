@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove", "Remove\Remove.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listexercise", "Listexercise\Listexercise.csproj", "{13EC53F3-A0F4-4DA6-A9C8-04F949D51D7E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "classes", "classes", "{9338A097-ABBA-4345-B5D3-B7B56E301FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha_za_ocenka", "Zadacha_za_ocenka\Zadacha_za_ocenka.csproj", "{3F188D68-667C-44AA-9C4E-677598438FE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +65,10 @@ Global
 		{13EC53F3-A0F4-4DA6-A9C8-04F949D51D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13EC53F3-A0F4-4DA6-A9C8-04F949D51D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13EC53F3-A0F4-4DA6-A9C8-04F949D51D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F188D68-667C-44AA-9C4E-677598438FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F188D68-667C-44AA-9C4E-677598438FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F188D68-667C-44AA-9C4E-677598438FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F188D68-667C-44AA-9C4E-677598438FE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +82,7 @@ Global
 		{446A6D2D-8A2D-4A5C-BF08-2B3C5A5A9477} = {E01C9C6F-B685-4333-B07D-563479E8B70D}
 		{B4B08AC6-D0D8-4675-B370-6CA3C4AB29A9} = {E01C9C6F-B685-4333-B07D-563479E8B70D}
 		{13EC53F3-A0F4-4DA6-A9C8-04F949D51D7E} = {E01C9C6F-B685-4333-B07D-563479E8B70D}
+		{3F188D68-667C-44AA-9C4E-677598438FE8} = {9338A097-ABBA-4345-B5D3-B7B56E301FE0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DAD5047B-7D17-4533-8CF4-BB46ECF19B41}
